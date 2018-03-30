@@ -3,4 +3,16 @@
 int main()
       std::cout<<"HELLO\n";
 retrun 0;
-}
+}std::cout <<"첫번째";
+
+:wq!
+
+
+
+
+
+
+s
+
+
+
